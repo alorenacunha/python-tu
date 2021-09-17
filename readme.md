@@ -8,6 +8,8 @@
 
 2. [vsCode](https://code.visualstudio.com/)
   - set up to [python development](https://code.visualstudio.com/docs/python/python-tutorial#_prerequisites)
+  - install python extension
+  - set python interpreter
 
 3. Python Package Manager [Pip](https://pip.pypa.io/en/stable/installation/)
   - (win) `py -m ensurepip --upgrade`
